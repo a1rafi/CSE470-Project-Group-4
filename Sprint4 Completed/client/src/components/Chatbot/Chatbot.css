@@ -1,0 +1,85 @@
+/* Chatbot.css */
+
+/* Styles for the chatbot container */
+.chatbot-container {
+    position: fixed;
+    bottom: 20px; /* Adjust as needed */
+    right: 20px; /* Adjust as needed */
+    z-index: 9999;
+    width: 300px; /* Adjust the width as needed */
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a shadow effect */
+    background-color: #fff;
+}
+  
+  /* Styles for the chatbot header */
+.chatbot-header {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+  
+  /* Styles for the chatbot body */
+.chatbot-body {
+    padding: 10px;
+}
+  
+  /* Styles for the chatbot message */
+.chatbot-message {
+    margin-bottom: 10px;
+}
+  
+  /* Styles for the chatbot input area */
+.chatbot-input {
+    width: calc(100% - 20px);
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+  
+  /* Styles for the chatbot send button */
+.chatbot-send-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+  /* Styles for the chatbot send button on hover */
+.chatbot-send-button:hover {
+    background-color: #0056b3;
+}
+  
+  /* Chatbot.css */
+
+.chatbotToggleButton {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.chatbotContainer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 9998;
+  width: 300px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px 0 0 0;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Add more styles as needed */
