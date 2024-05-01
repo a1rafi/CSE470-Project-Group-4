@@ -1,6 +1,6 @@
 # CSE470-Project-Group-4
 
-Welcome to the Airbnb Rent! This project is developed by five diligent and dedicated team members for the CSE470 - Software Engineering.
+Welcome to the Airbnb Rent! This project is developed by five diligent and dedicated team members for the course CSE470 - Software Engineering.
 
 ## Meet Our Team:
 
