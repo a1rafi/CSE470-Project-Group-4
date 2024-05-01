@@ -5,9 +5,13 @@ Welcome to the Airbnb Rent! This project is developed by five diligent and dedic
 ## Meet Our Team:
 
 Kohinoor Sultana Elora
+
 Faiaz Ibnee Rahman
+
 Saowmi Mehjabin
+
 Sharon Rose Sarker
+
 Al Rafi Ahmed
 
 ## Project Overview:
